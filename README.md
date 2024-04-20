@@ -5,7 +5,8 @@
 -💞️ Me apasiona ayudar a los demás, trabajar en proyectos que impacten positivamente, con el fin de contribuir a mejorar la calidad de vida, una economía justa, estable y respetando el medio ambiente.
 
 -🌱 Actualmente trabajo en un proyecto maravilloso dónde los datos ayudan a las emprendedoras a conectarse con clientes potenciales y así crecer sus negocios
-](https://www.linkedin.com/company/enter-data-maps/about/)
+](https://www.linkedin.com/company/enter-data-maps/about/). Con una comunidad que apoya e incentiva a las mamás para trabajar en el sector TI [
+](https://www.linkedin.com/company/intechmomlatam/mycompany/verification/)
 
 - 📫 Puedes contactarte conmigo en vesta935@gmail.com
  
