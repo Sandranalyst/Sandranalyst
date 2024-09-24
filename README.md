@@ -10,7 +10,7 @@ dónde los datos ayudan a las emprendedoras a conectarse con clientes potenciale
 [
 ](https://www.linkedin.com/company/intechmomlatam/mycompany/verification/) 
 
-Ahora me siento orgullosa de estar terminando el Bootcamp de Análisis de Datos en Henry, donde he tenido varios desafíos que me han hecho crecee profesionalmente y he adquirido nuevas herramientas que me oermiten mejorar mi trabajo.
+Ahora me siento orgullosa de estar terminando el Bootcamp de Análisis de Datos en Henry, donde he tenido varios desafíos que me han hecho crecee profesionalmente y he adquirido nuevas herramientas que me permiten mejorar mi trabajo como analista de datos.
 
 - 📫 Puedes contactarte conmigo en vesta935@gmail.com
  
