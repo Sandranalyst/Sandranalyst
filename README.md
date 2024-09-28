@@ -11,6 +11,10 @@ dónde los datos ayudan a las emprendedoras a conectarse con clientes potenciale
 [
 ](https://www.linkedin.com/company/intechmomlatam/mycompany/verification/) 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?logo=powerbi)
+
 
 
 - 📫 Puedes contactarte conmigo en sandra.avila3791@gmail.com.  
