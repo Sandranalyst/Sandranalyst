@@ -13,7 +13,7 @@ dónde los datos ayudan a las emprendedoras a conectarse con clientes potenciale
 
 
 
-- 📫 Puedes contactarte conmigo en sandra.avila3791@gmail.com
+- 📫 Puedes contactarte conmigo en sandra.avila3791@gmail.com.  
  https://www.linkedin.com/in/sandra-avila-077bb11b4/ 
 
 
