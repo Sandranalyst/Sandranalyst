@@ -3,7 +3,7 @@
 -👩🏻‍🦱 Me defino como una persona  comprometida, empática, abierta al cambio y dispuesta a reaprender e implementar nuevas metodologías para lograr una mejora contínua. 
 
 -💞️ Ahora me siento orgullosa de estar culminando el Bootcamp de Análisis de Datos en Henry, donde he tenido varios desafíos que me han hecho crecer profesionalmente y adquirir 
-nuevas herramientas que me permiten avanzar como analista de datos como: SQL, Power BI y Python enfocado en el analisis de datos. Lo que mas valoro de este proceso es la practica que siempre empleamos en el bootcamp.
+nuevas herramientas que me permiten avanzar como analista de datos como: SQL, Power BI y Python enfocado en el analisis de datos. Lo que mas valoro de este proceso es la practica que siempre empleamos en el bootcamp. En Henry he trabajado proyectos increibles, que me han convertido en una verdadera analista de datos.
 
 -🌱 El semestre pasado trabajé en un proyecto maravilloso de IntechMom, 
 dónde los datos ayudan a las emprendedoras a conectarse con clientes potenciales y así crecer sus negocios
